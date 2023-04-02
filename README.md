@@ -12,6 +12,9 @@ REACT_APP_OPENAPI_KEY={YOUR OPEN AI API KEY}
 
 3. > npm run start
 
+### Have fun!
+<img src="https://imagez.tmz.com/image/9f/4by3/2020/03/07/9f03a35cccbc46cc868faf9c1098630f_xl.jpg" alt="dog">
+
 ## Available Scripts
 
 In the project directory, you can run:
