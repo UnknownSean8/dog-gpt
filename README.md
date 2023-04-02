@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Wuf wuf wuf with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To setup:
+1. Create a .env file.
+2. Create an environment variable and put in
+
+```
+REACT_APP_OPENAPI_KEY={YOUR OPEN AI API KEY}
+```
+
+3. > npm run start
 
 ## Available Scripts
 
